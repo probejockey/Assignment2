@@ -4,7 +4,9 @@ cachemean <- function(x, ...) {
     message("getting cached data")
     return(m)
   }
-  
+  ##
+  ##
+  ##
   #comment
   data <- x$get()
   m <- mean(data, ...)
