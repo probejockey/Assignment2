@@ -15,5 +15,3 @@ makeVector <- function(x = numeric()) {
        getmean = getmean)
 }
 
-seq1 <-rnorm(9)
-mat1 <-matrix(seq1,3,3)
