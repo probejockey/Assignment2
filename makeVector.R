@@ -6,6 +6,7 @@ makeVector <- function(x = numeric()) {
   }
   
   ## comment
+  ## ##
   get <- function() x
   setmean <- function(mean) m <<- mean
   getmean <- function() m
